@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**shivamaws/shivamaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Shivam, a Cloud & DevOps enthusiast with strong experience in:
 
-Here are some ideas to get you started:
+☁️ Microsoft Azure (Production-level exposure)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧱 Infrastructure as Code (Terraform)
+
+🐧 Linux (Interview + real-world focused)
+
+🌐 Networking fundamentals (deep clarity, not rote learning)
+
+🔐 Cloud Security & Identity (RBAC, Conditional Access, MFA)
+
+🤖 Automation using PowerShell & DevOps pipelines
+
+I strongly believe in:
+
+“If you can explain it simply, you truly understand it.”
